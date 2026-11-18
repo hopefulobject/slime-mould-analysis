@@ -18,3 +18,5 @@ Scripts used to measure *Physarum polycephalum* growth on agar plates.
 3. Run `closing_and_stats.py` and `pilot_closing.py "20 hours" "24 hours"`.
 
 Python scripts need numpy, scipy, scikit-image, pandas and pillow. File paths in the macros point to the original analysis folder and need changing to run elsewhere.
+
+Code written with assistance from Claude (Anthropic).
